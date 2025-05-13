@@ -4,7 +4,7 @@ Get the news related to your stock.
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Betty-Bai/post_nest_withSQL
+   git clone https://github.com/Betty-Bai/Stock_News.git
 2. Change all the environment variables to your information.
    
 ## Usage
